@@ -6,47 +6,74 @@ This repository contains my learning resources, notes, practice programs, projec
 The goal is to build a strong foundation while gaining practical, hands-on experience through coding exercises and real-world projects.
 
 📂 Repository Structure
-Data-Science-with-GenAI-and-AgenticAI/ 
-│ 
-├── Core-Python/ 
-│ ├── Basics/ 
-│ ├── Functions/ 
-│ ├── OOP/ 
-│ └── Projects/ 
-│ 
-├── Data-Science/ 
-│ ├── NumPy/ 
-│ ├── Pandas/ 
-│ ├── Data-Cleaning/ 
-│ ├── EDA/ 
-│ └── Data-Visualization/ 
-│ 
-├── Machine-Learning/ 
-│ ├── Regression/ 
-│ ├── Classification/ 
-│ ├── Clustering/ 
-│ ├── Dimensionality-Reduction/ 
-│ └── Projects/ 
-│ 
-├── Generative-AI/ 
-│ ├── LLMs/ 
-│ ├── Prompt-Engineering/ 
-│ ├── Embeddings/ 
-│ ├── RAG/ 
-│ └── Projects/ 
-│ 
-├── Agentic-AI/ 
-│ ├── AI-Agents/ 
-│ ├── Tool-Calling/ 
-│ ├── Memory/ 
-│ ├── Multi-Agent-Systems/ 
-│ └── Projects/ 
-│ 
-├── Datasets/ 
-│ 
-├── Notes/ 
-│ 
-└── README.md
+The repository is organized into different stages of the learning journey:
+🐍 Core Python
+Fundamentals and programming concepts required for Data Science.
+* Python Basics
+* Data Types & Operators
+* Conditional Statements
+* Loops
+* Functions
+* Modules & Packages
+* File Handling
+* Exception Handling
+* Object-Oriented Programming
+* Python Projects
+
+📊 Data Science
+Tools and techniques for working with and analyzing data.
+* NumPy
+* Pandas
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistics & Probability
+* Feature Engineering
+* Data Analysis Projects
+
+🤖 Machine Learning
+Machine Learning concepts, algorithms, and projects.
+* Machine Learning Fundamentals
+* Regression
+* Classification
+* Clustering
+* Dimensionality Reduction
+* Model Evaluation
+* Feature Selection
+* Hyperparameter Tuning
+* Scikit-learn
+* Machine Learning Projects
+
+🧠 Generative AI
+Concepts and applications related to modern Generative AI.
+* Generative AI Fundamentals
+* Large Language Models (LLMs)
+* Transformers
+* Prompt Engineering
+* Embeddings
+* Vector Databases
+* Retrieval-Augmented Generation (RAG)
+* LLM APIs
+* Generative AI Projects
+
+🤝 Agentic AI
+Learning how to build AI systems that can reason, use tools, and perform tasks.
+* AI Agents
+* Agent Architecture
+* Planning & Reasoning
+* Tool Calling
+* Memory
+* Agent Workflows
+* Multi-Agent Systems
+* Agent Frameworks
+* Agentic AI Projects
+
+📁 Other Folders
+* Datasets — Datasets used for practice and projects
+* Notes — Important notes and learning resources
+* Projects — Completed and ongoing projects
+
 
 🔄 Repository Status
 🚧 This repository is actively being developed.
