@@ -7,18 +7,36 @@ The goal is to build a strong foundation while gaining practical, hands-on exper
 
 📂 Repository Structure
 The repository is organized into different stages of the learning journey:
+
 🐍 Core Python
-Fundamentals and programming concepts required for Data Science.
-* Python Basics
-* Data Types & Operators
+Building a strong foundation in Python programming, from basic concepts to advanced Python features.
+
+📚 Basics
+The Basics section covers the fundamental concepts of Python:
+
+* Introduction to Python
+* Variables
+* Data Types & Type Casting
+* Strings
+* Operators
+* Basic Built-in Functions
+* Escape Characters
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* Data Structure Conversion
 * Conditional Statements
 * Loops
-* Functions
-* Modules & Packages
-* File Handling
-* Exception Handling
-* Object-Oriented Programming
-* Python Projects
+* Comprehensions**
+
+🚀 Advanced Python
+The Advanced section focuses on important Python concepts used for writing more powerful, reusable, and efficient programs:
+
+* Functions & Scope
+* Iterators & Generators
+* Decorators
+* Object-Oriented Programming (OOP)**
 
 📊 Data Science
 Tools and techniques for working with and analyzing data.
