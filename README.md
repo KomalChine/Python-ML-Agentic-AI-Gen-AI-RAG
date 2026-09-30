@@ -13,7 +13,6 @@ Building a strong foundation in Python programming, from basic concepts to advan
 
 📚 Basics
 The Basics section covers the fundamental concepts of Python:
-
 * Introduction to Python
 * Variables
 * Data Types & Type Casting
@@ -32,7 +31,6 @@ The Basics section covers the fundamental concepts of Python:
 
 🚀 Advanced Python
 The Advanced section focuses on important Python concepts used for writing more powerful, reusable, and efficient programs:
-
 * Functions & Scope
 * Iterators & Generators
 * Decorators
